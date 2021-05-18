@@ -1,0 +1,6 @@
+Django
+Pillow
+whitenoise
+pytz
+asgiref
+sqlparse
